@@ -6,6 +6,5 @@ version = "0.0.0"
 description = ""
 
 [tool.poetry.dependencies]
-pandas = "*"
-python = "^3.7"
-seaborn = "*"
+python = "^3.10"
+seaborn = "^0.12.2"
